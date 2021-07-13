@@ -1,0 +1,10 @@
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\bin\Debug\EmailSQLServer.exe.config
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\bin\Debug\EmailSQLServer.exe
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\bin\Debug\EmailSQLServer.pdb
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\bin\Debug\EmailSQLServer.xml
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\obj\Debug\EmailSQLServer.FrmEmail.resources
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\obj\Debug\EmailSQLServer.Resources.resources
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\obj\Debug\EmailSQLServer.vbproj.GenerateResource.Cache
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\obj\Debug\EmailSQLServer.exe
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\obj\Debug\EmailSQLServer.xml
+c:\users\softpang.softpang\documents\visual studio 2013\Projects\EmailSQLServer\EmailSQLServer\obj\Debug\EmailSQLServer.pdb
